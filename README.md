@@ -1,4 +1,4 @@
-# PureS3 Tool
+# GoobyFiles
 
 Created to reduce dependacy on Linode's Cloud Manager web interface.
 
@@ -11,7 +11,7 @@ BUCKET_NAME=
 LINODE_API_VERSION=v4
 ```
 
-## Wiindows Project Setup
+## Windows Project Setup
 
 ```shell
 python -m venv venv
